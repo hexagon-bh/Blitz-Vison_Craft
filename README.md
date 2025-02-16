@@ -25,7 +25,7 @@
 
 ### 🖼️ 조종기 설계 사진
 <div align="center">
-  <img src="controller_design_image.jpg" width="80%" alt="조종기 설계 사진"/>
+  <img src="controller.JPG" width="80%" alt="조종기 설계 사진"/>
 </div>
 
 ### 🏆 프로젝트 성과
