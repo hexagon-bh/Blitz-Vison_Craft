@@ -7,11 +7,20 @@
   <img src="profile_image.JPG" width="80%" alt="Blitz Vision Craft Product Image"/>
 </div>
 
-🎞️ **Product Video**: [Watch here](https://youtube.com/shorts/zjXd_HjklBY?feature=share)  
-⚡ **Team**: 메이커창작과 레전드올스타💫  
-🛠️ **Maker**: 김강현, 조윤혁, 장한수, 송승현, 김선우  
-📅 **Production Period**: 2023.11.15 ~ 2023.12.14  
-📂 **Engineering Files**: None
+## 🎞 Product Video
+🔗 [Watch here](https://youtube.com/shorts/zjXd_HjklBY?feature=share) 
+
+## ⚡ Team
+**메이커창작과 레전드올스타** 💫
+
+## 🛠️ Maker
+김강현, 조윤혁, 장한수, 송승현, 김선우
+
+## 📅 Production Period
+⏳ 2023.11.15 ~ 2023.12.14 
+
+## 📂 Engineering Files
+📁 None
 
 ---
 
